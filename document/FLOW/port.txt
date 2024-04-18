@@ -20,7 +20,7 @@ file ที่ใช้
 
  2.ISIC CODE
  แปลจากปกติเป็น == ตัวอักษรภาษาอังกฤษ+ตัวเลข 3 ตัว
- ตัวที่เป็น NA ให้ไป MAPING กับ file : Report48-20240101052522 field == primaryBusType1
+ ตัวที่เป็น NA ให้ไป MAPING กับ file : Report48-20240101052522 field == primaryBusType
 
  3. ประเภท credit file : TB_Product Program
  เริ่มจาก 4 	ตัวถ้า map ไม่เจอ ให้ลดเหลือ 3 ,2 ตามลำดับ
