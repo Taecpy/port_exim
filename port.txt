@@ -5,7 +5,10 @@
 
 file ที่ใช้
 - วงเงินยอดคงค้าง
-- ข้อมูล ECL sheets :
+- ข้อมูล ECL sheets 
+ W:\ฝ่ายบริหารความเสี่ยง\div3\Shared Documents\Data\ข้อมูลกันสำรอง_ECL\ปี 2567
+- ข้อมูล watchlist 
+ W:\ฝ่ายบริหารความเสี่ยง\div3\Shared Documents\Data\ข้อมูล Watch List\2567
 
 -ทำผ่าน code หมดแล้ว หลังจากเวร็จทุก process ให้มา manual แก้ stage ใน ECL Interbank_S ให้รัน port.ipynb
  ---------------------------------------------------------------------
